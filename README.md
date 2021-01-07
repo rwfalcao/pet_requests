@@ -9,7 +9,7 @@
 $ git clone https://github.com/rwfalcao/pet_requests.git
 ```
 
-* A instalaço das dependências é feita com o seguinte comando. O uso de ambiente virtual é recomendada mas não necessária.
+* A instalação das dependências é feita com o seguinte comando. O uso de ambiente virtual é recomendada mas não necessário.
 ```
 $ pip install -r requirements.txt
 ```
